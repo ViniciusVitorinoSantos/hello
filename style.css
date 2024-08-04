@@ -1,0 +1,22 @@
+@charset "UTF-8";
+*{
+    margin: 0;
+}
+
+
+
+body{
+    background-color: rgba(111, 60, 159, 0.349);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: url("img/err404.jpg");
+}
+
+h1{
+    text-shadow: 2px 2px 2px white;
+    font-weight: bolder;
+}
+
+h2{
+    text-shadow: 2px 2px 2px white;
+    font-weight: bolder;
+}
